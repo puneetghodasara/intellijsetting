@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="sap.m" location="https://openui5.hana.ondemand.com/resources/sap-ui-core.js" />
+  </component>
+</application>
