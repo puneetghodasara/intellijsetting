@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\src\main\java\com\sap\it\provision\app\task\DistributeCATaskMaker.java [provision.app]'" />
-    <option name="defaultScopeName" value="File '...\app\src\main\java\com\sap\it\provision\app\task\DistributeCATaskMaker.java [provision.app]'" />
+    <option name="customScope" value="File '...\app.ide\src\main\java\com\sap\it\provision\app\ide\LocalAppSubscriptionContext.java [provision.app.ide]'" />
+    <option name="defaultScopeName" value="File '...\app.ide\src\main\java\com\sap\it\provision\app\ide\LocalAppSubscriptionContext.java [provision.app.ide]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\src\main\java\com\sap\it\provision\app\task\DistributeCATaskMaker.java [provision.app]'" />
+    <option name="SEARCH_SCOPE" value="File '...\app.ide\src\main\java\com\sap\it\provision\app\ide\LocalAppSubscriptionContext.java [provision.app.ide]'" />
   </component>
 </application>
