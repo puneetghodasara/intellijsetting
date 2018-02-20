@@ -1,1 +1,79 @@
-<keymap version="1" name="ACopy" parent="$default" />
+<keymap version="1" name="ACopy" parent="$default">
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CollapseSelection" />
+  <action id="Debugger.ResumeThread">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="EditorToggleCase" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f5" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="Maven.ExecuteGoal">
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
+  <action id="Maven.QuickListPopupAction" />
+  <action id="NextOccurence" />
+  <action id="NextTab" />
+  <action id="PreviousOccurence" />
+  <action id="PreviousTab" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+</keymap>
