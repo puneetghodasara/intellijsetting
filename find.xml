@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app.ide\src\main\java\com\sap\it\provision\app\ide\LocalAppSubscriptionContext.java [provision.app.ide]'" />
-    <option name="defaultScopeName" value="File '...\app.ide\src\main\java\com\sap\it\provision\app\ide\LocalAppSubscriptionContext.java [provision.app.ide]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app.ide\src\main\java\com\sap\it\provision\app\ide\LocalAppSubscriptionContext.java [provision.app.ide]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
