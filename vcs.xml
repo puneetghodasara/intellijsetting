@@ -10,6 +10,10 @@
           <option name="url" value="ssh://i324801@git.wdf.sap.corp:29418/AP/cpiprovtst.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="puneetghodasara" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\i324801\git" />
