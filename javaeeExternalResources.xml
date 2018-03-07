@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.ehcache.org/schema/ehcache-core-3.0.xsd" location="$USER_HOME$/.IdeaIC2017.3/system/extResources/df3789db_ehcache-core-3.0.xsd" />
+  </component>
+</application>
