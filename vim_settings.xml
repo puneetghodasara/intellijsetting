@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/rest/NodeProvisionTaskResource.java" timestamp="1521543058811">
@@ -67,6 +67,7 @@
         <mark key="^" line="68" column="134" />
         <mark key="." line="68" column="134" />
       </file>
+      <file name="$USER_HOME$/git/loganalysis/sap-logstash/to-archive/output-template.conf" timestamp="1523260863649" />
       <file name="$USER_HOME$/git/cpiprovtst/systest/src/test/java/com/sap/it/provision/systest/CertificateUtilTest.java" timestamp="1522747895648">
         <mark key="'" line="74" column="23" />
       </file>
