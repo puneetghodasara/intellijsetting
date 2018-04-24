@@ -3,11 +3,6 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/rest/NodeProvisionTaskResource.java" timestamp="1521543058811">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-      </file>
       <file name="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/admin/TenantKeyStoreAdminImpl.java" timestamp="1523022182598">
         <mark key="'" line="344" column="32" />
         <mark key="[" line="164" column="8" />
@@ -29,14 +24,18 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/git/nmplafhci/lm/bndl/lm/src/main/java/com/sap/it/nm/plaf/hci/lm/tasks/PlatformDatabaseInitializerTask.java" timestamp="1522835504439">
-        <mark key="'" line="206" column="16" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="256" column="29" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/git/nmspi2/bndl/types/src/main/java/com/sap/it/nm/spi/types/db/DbDescriptor.java" timestamp="1524561793388">
+        <mark key="'" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" timestamp="1522835843662">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/nmplafhci/lm/bndl/lm/src/main/java/com/sap/it/nm/plaf/hci/lm/tasks/PlatformDatabaseInitializerTask.java" timestamp="1524562005983">
+        <mark key="'" line="191" column="19" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
+        <mark key="." line="242" column="0" />
+        <mark key="^" line="245" column="33" />
+      </file>
+      <file name="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" timestamp="1524562267533">
+        <mark key="'" line="42" column="45" />
         <mark key="[" line="57" column="32" />
         <mark key="]" line="57" column="32" />
         <mark key="." line="57" column="32" />
@@ -48,16 +47,17 @@
       <file name="$USER_HOME$/git/nmplafhci/lm/bndl/lm/src/main/java/com/sap/it/nm/plaf/hci/lm/HciPlatformProvisioner.java" timestamp="1522834952102">
         <mark key="'" line="102" column="42" />
       </file>
-      <file name="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/access/AppAccessImpl.java" timestamp="1520337267608">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-      </file>
       <file name="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/base/controller/BaseController.js" timestamp="1520336414239">
         <mark key="'" line="394" column="16" />
       </file>
       <file name="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/access/TenantKeyStoreAccessImpl.java" timestamp="1520334151852">
         <mark key="'" line="216" column="24" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1524561833013">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/HciDbAdmin.java" timestamp="1524561720567">
+        <mark key="'" line="46" column="46" />
       </file>
       <file name="$USER_HOME$/git/hcisvcprov/api/src/main/java/com/sap/it/provision/api/rest/TenantKeyStoreService.java" timestamp="1520336526208">
         <mark key="'" line="68" column="35" />
@@ -65,6 +65,9 @@
         <mark key="]" line="68" column="134" />
         <mark key="^" line="68" column="134" />
         <mark key="." line="68" column="134" />
+      </file>
+      <file name="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/actions/GetDbDescriptorAction.java" timestamp="1524561506974">
+        <mark key="'" line="43" column="31" />
       </file>
       <file name="$USER_HOME$/git/cpiprovtst/systest/src/test/java/com/sap/it/provision/systest/CertificateUtilTest.java" timestamp="1522747895648">
         <mark key="'" line="74" column="23" />
@@ -104,12 +107,6 @@
         <mark key="^" line="56" column="14" />
         <mark key="." line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/git/hcisvcprov/api/src/main/java/com/sap/it/provision/api/model/NodeProvisionData.java" timestamp="1521543048759">
-        <mark key="[" line="105" column="46" />
-        <mark key="]" line="105" column="46" />
-        <mark key="^" line="105" column="46" />
-        <mark key="." line="105" column="46" />
-      </file>
       <file name="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreList.controller.js" timestamp="1520335324250">
         <mark key="'" line="0" column="0" />
       </file>
@@ -122,6 +119,12 @@
       </file>
       <file name="$USER_HOME$/git/hcisvcprov/api/src/main/java/com/sap/it/provision/api/model/validate/ValidTenantTargetInfoValidator.java" timestamp="1520337648270">
         <mark key="'" line="12" column="55" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sap/it/nm/spi/spi.types/2.34.0/spi.types-2.34.0.jar!/com/sap/it/nm/spi/types/db/DbDescriptor.class" timestamp="1524561408773">
+        <mark key="'" line="23" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sap/it/nm/spi/spi/2.34.0/spi-2.34.0.jar!/com/sap/it/nm/spi/db/PlatformDbAdmin.class" timestamp="1524561453060">
+        <mark key="'" line="29" column="10" />
       </file>
       <file name="$USER_HOME$/git/hcisvcprov/spi/src/main/java/com/sap/it/provision/spi/admin/TenantAdmin.java" timestamp="1520340848526">
         <mark key="'" line="43" column="14" />
@@ -139,6 +142,7 @@
         <mark key="^" line="82" column="11" />
         <mark key="." line="64" column="21" />
       </file>
+      <file name="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/actions/DbUriFormats.java" timestamp="1524561526991" />
       <file name="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" timestamp="1520335109012">
         <mark key="'" line="83" column="17" />
         <mark key="[" line="89" column="38" />
@@ -149,30 +153,9 @@
       <file name="/fragment.java" timestamp="1523013044797">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/nmspi2/bndl/types/src/main/java/com/sap/it/nm/spi/types/db/DbState.java" timestamp="1524561922078" />
     </filemarks>
     <jumps>
-      <jump line="345" column="4" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/admin/TenantAdminImpl.java" />
-      <jump line="71" column="4" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/admin/TenantAdminImpl.java" />
-      <jump line="62" column="116" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="37" column="93" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="39" column="41" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="91" column="51" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="98" column="17" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="69" column="65" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="86" column="36" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="82" column="17" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="66" column="73" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="84" column="27" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="93" column="24" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="96" column="15" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="83" column="17" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJob.java" />
-      <jump line="66" column="48" filename="$USER_HOME$/git/hcisvcprov/app/src/test/java/com/sap/it/provision/app/task/DeleteProvisionedKeyStoreDataJobTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreList.controller.js" />
-      <jump line="13" column="25" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/view/KeyStoreDistribute.view.xml" />
-      <jump line="23" column="27" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreDistribute.controller.js" />
-      <jump line="52" column="9" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreDistribute.controller.js" />
-      <jump line="93" column="30" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreDistribute.controller.js" />
-      <jump line="97" column="40" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreDistribute.controller.js" />
       <jump line="47" column="21" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreDistribute.controller.js" />
       <jump line="17" column="25" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreDistribute.controller.js" />
       <jump line="25" column="35" filename="$USER_HOME$/git/hcisvcprov/app.web/src/main/webapp/saasadmin/controller/KeyStoreDistribute.controller.js" />
@@ -251,61 +234,79 @@
       <jump line="180" column="46" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/admin/TenantKeyStoreAdminImpl.java" />
       <jump line="344" column="32" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/admin/TenantKeyStoreAdminImpl.java" />
       <jump line="31" column="52" filename="$USER_HOME$/git/hcisvcprov/app/src/main/java/com/sap/it/provision/app/plaf/HcpAuditLogger.java" />
+      <jump line="29" column="10" filename="$MAVEN_REPOSITORY$/com/sap/it/nm/spi/spi/2.34.0/spi-2.34.0.jar!/com/sap/it/nm/spi/db/PlatformDbAdmin.class" />
+      <jump line="23" column="22" filename="$MAVEN_REPOSITORY$/com/sap/it/nm/spi/spi.types/2.34.0/spi.types-2.34.0.jar!/com/sap/it/nm/spi/types/db/DbDescriptor.class" />
+      <jump line="180" column="32" filename="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/HciDbAdmin.java" />
+      <jump line="209" column="58" filename="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/HciDbAdmin.java" />
+      <jump line="43" column="31" filename="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/actions/GetDbDescriptorAction.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/HciDbAdmin.java" />
+      <jump line="16" column="31" filename="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/HciDbAdmin.java" />
+      <jump line="46" column="46" filename="$USER_HOME$/git/nmplafhci/lm/bndl/db/src/main/java/com/sap/it/nm/plaf/hci/lm/db/HciDbAdmin.java" />
+      <jump line="133" column="32" filename="$USER_HOME$/git/nmplafhci/lm/bndl/lm/src/main/java/com/sap/it/nm/plaf/hci/lm/tasks/PlatformDatabaseInitializerTask.java" />
+      <jump line="29" column="20" filename="$USER_HOME$/git/nmspi2/bndl/types/src/main/java/com/sap/it/nm/spi/types/db/DbDescriptor.java" />
+      <jump line="887" column="26" filename="C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/locks/StampedLock.java" />
+      <jump line="230" column="17" filename="$USER_HOME$/git/nmplafhci/lm/bndl/lm/src/main/java/com/sap/it/nm/plaf/hci/lm/tasks/PlatformDatabaseInitializerTask.java" />
+      <jump line="197" column="25" filename="$USER_HOME$/git/nmplafhci/lm/bndl/lm/src/main/java/com/sap/it/nm/plaf/hci/lm/tasks/PlatformDatabaseInitializerTask.java" />
+      <jump line="258" column="17" filename="$USER_HOME$/git/nmplafhci/lm/bndl/lm/src/main/java/com/sap/it/nm/plaf/hci/lm/tasks/PlatformDatabaseInitializerTask.java" />
+      <jump line="191" column="19" filename="$USER_HOME$/git/nmplafhci/lm/bndl/lm/src/main/java/com/sap/it/nm/plaf/hci/lm/tasks/PlatformDatabaseInitializerTask.java" />
+      <jump line="129" column="33" filename="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" />
+      <jump line="51" column="49" filename="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" />
+      <jump line="130" column="61" filename="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" />
+      <jump line="131" column="57" filename="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" />
+      <jump line="136" column="62" filename="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" />
+      <jump line="37" column="32" filename="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" />
+      <jump line="42" column="45" filename="$USER_HOME$/git/cpiprovtst/systest/src/main/java/com/sap/it/provision/systest/TestData.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Boolean</text>
+        <text encoding="base64">XDxMT0FEVEVTVFw+</text>
       </register>
       <register name="0" type="4">
         <text>Boolean.parseBoolean(System.getProperty(&quot;cmn.skip.setup&quot;, &quot;false&quot;));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGFpdGMgZmluYWwgQm9vbGVhbgo=</text>
+        <text encoding="base64">ICAgICAgICAvL0xpc3QgYWxsIERiIGRlc2NyaXRvcnMuCiAgICAgICAgLy9JZiBhbnkgYXJlIGluIENSRUFUSU5HIHN0YXRlLCB0aGVuIHdlIHdhaXQgaW4gYSBsb29wICh1c2UgV0FpdFRpbGxDaGVja1Bhc3Nlc1Rhc2spCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGFpdGMgZmluYWwgQm9vbGVhbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChDbG9uZU5vdFN1cHBvcnRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChDbG9uZU5vdFN1cHBvcnRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoUFJPVl9UQVNLX0NPTVBMRVRJT05fUFJFRElDQVRFKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdHJlYW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoUFJPVl9UQVNLX0NPTVBMRVRJT05fUFJFRElDQVRFKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>Boolean</last-search>
+      <last-search encoding="base64">XDxMT0FEVEVTVFw+</last-search>
       <last-offset />
-      <last-pattern>Boolean</last-pattern>
+      <last-pattern encoding="base64">XDxMT0FEVEVTVFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2VsZWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxfdGVuYW50U2VxdWVuY2VTZWxlY3RlZFw+</entry>
-        <entry encoding="base64">XDxfdGVuYW50U2VxdWVuY2VJZHNcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVDbG9zZVw+</entry>
         <entry>save</entry>
         <entry>saveEntityAnd</entry>
         <entry encoding="base64">XDxvcGVyYXRpb25cPg==</entry>
@@ -320,8 +321,12 @@
         <entry>lock</entry>
         <entry>selfP</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxkb0NyZWF0ZURiXD4=</entry>
         <entry>Boolean</entry>
+        <entry>LOCK</entry>
+        <entry>Lock</entry>
+        <entry>Cluster</entry>
+        <entry encoding="base64">XDxkb0NyZWF0ZURiXD4=</entry>
+        <entry encoding="base64">XDxMT0FEVEVTVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -335,10 +340,10 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action ShowIntentionActions</entry>
-        <entry>action Back</entry>
-        <entry>action GotoFile</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
