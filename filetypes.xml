@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
