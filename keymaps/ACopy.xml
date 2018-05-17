@@ -1,4 +1,7 @@
 <keymap version="1" name="ACopy" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" second-keystroke="r" />
+  </action>
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
@@ -19,6 +22,9 @@
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" second-keystroke="r" />
+  </action>
   <action id="EditorChooseLookupItemDot" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
