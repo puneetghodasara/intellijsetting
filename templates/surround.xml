@@ -1,0 +1,30 @@
+<templateSet group="surround">
+  <template name="P" value="($SELECTION$)" shortcut="NONE" description="Surround with ()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+  <template name="OO" value="Optional.of($SELECTION$)" shortcut="NONE" description="Surround with Optional.of()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="re" value="return $SELECTION$" shortcut="NONE" description="return" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
