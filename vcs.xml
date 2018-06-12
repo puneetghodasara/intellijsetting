@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/puneetghodasara/website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://i324801@git.wdf.sap.corp:29418/build2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\i324801\git" />
