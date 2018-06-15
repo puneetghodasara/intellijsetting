@@ -25,4 +25,22 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="logi" value="$EXPR$.info(&quot;$END$&quot;);" description="Prints an INFO log" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Logger&quot;)" defaultValue="log" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logd" value="$EXPR$.debug(&quot;$END$&quot;);" description="Prints an DEBUG log" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Logger&quot;)" defaultValue="log" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loge" value="$EXPR$.error(&quot;$END$&quot;);" description="Prints an ERROR log" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Logger&quot;)" defaultValue="log" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
