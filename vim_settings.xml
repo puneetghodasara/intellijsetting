@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/itutil/bundles/util.webclient/src/main/java/com/sap/it/util/webclient/core/StandardWebClient.java" timestamp="1529676506196">
+      <file name="$USER_HOME$/git/itutil/bundles/util.webclient/src/main/java/com/sap/it/util/webclient/core/StandardWebClient.java" timestamp="1529901504548">
         <mark key="'" line="27" column="48" />
         <mark key="[" line="112" column="30" />
         <mark key="]" line="112" column="40" />
@@ -164,7 +164,7 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="153" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529675052456">
+      <file name="/Dummy.txt" timestamp="1529902130425">
         <mark key="[" line="0" column="0" />
         <mark key="." line="2" column="1" />
       </file>
