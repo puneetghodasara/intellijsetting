@@ -36,6 +36,10 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="shift alt f5" />
   </action>
@@ -61,9 +65,7 @@
   <action id="Maven.ReimportProject">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="NextOccurence">
-    <keyboard-shortcut first-keystroke="ctrl period" />
-  </action>
+  <action id="NextOccurence" />
   <action id="NextTab" />
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl comma" />
