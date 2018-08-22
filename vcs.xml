@@ -78,6 +78,14 @@
           <option name="url" value="https://github.com/edenhill/librdkafka.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://i071719@git.wdf.sap.corp:29418/AP/it-images-runtime" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://i324801@git.wdf.sap.corp:29418/AP/it-images-runtime.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\i324801\git" />
