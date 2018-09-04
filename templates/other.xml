@@ -1,6 +1,7 @@
 <templateSet group="other">
-  <template name="logger" value="private static final Logger logger = LoggerFactory.getLogger($CLASS_NAME$.class);&#10;" description="Add Logger Line" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+  <template name="logger" value="private static final Logger $VAR$ = LoggerFactory.getLogger($CLASS_NAME$.class);&#10;" description="Add Logger Line" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="logger" alwaysStopAt="true" />
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="COMPLETION" value="false" />
       <option name="JAVA_CODE" value="true" />
