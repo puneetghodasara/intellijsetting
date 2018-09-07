@@ -2,6 +2,9 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="shift ctrl o" second-keystroke="r" />
   </action>
+  <action id="ActivateCoverageToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="v" />
+  </action>
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
