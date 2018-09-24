@@ -94,11 +94,4 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\i324801\git" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/git/nodeassembly2" />
-  </component>
 </application>
