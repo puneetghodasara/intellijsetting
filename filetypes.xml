@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
