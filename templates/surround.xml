@@ -2,6 +2,7 @@
   <template name="P" value="($SELECTION$)" shortcut="NONE" description="Surround with ()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="OO" value="Optional.of($SELECTION$)" shortcut="NONE" description="Surround with Optional.of()" toReformat="false" toShortenFQNames="true">
@@ -19,12 +20,14 @@
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
+      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="fi" value="final $SELECTION$" shortcut="NONE" description="final" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
+      <option name="JSP" value="false" />
     </context>
   </template>
 </templateSet>
