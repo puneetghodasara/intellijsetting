@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
