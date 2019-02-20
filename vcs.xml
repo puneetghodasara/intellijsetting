@@ -94,6 +94,10 @@
           <option name="url" value="https://github.com/SAP/cf-sample-app-nodejs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.int.sap.hana.ondemand.com/i324801sapdev/docservapp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\i324801\git" />
