@@ -1,0 +1,13 @@
+<application>
+  <component name="GetterTemplates">
+    <option name="defaultTempalteName" value="Optional" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="Optional" />
+          <option name="template" value="#if($field.modifierStatic)&#10;static ##&#10;#end&#10;Optional&lt;$field.type&gt; ##&#10;#set($name = $StringUtil.capitalizeWithJavaBeanConvention($StringUtil.sanitizeJavaIdentifier($helper.getPropertyName($field, $project))))&#10;#if ($field.boolean &amp;&amp; $field.primitive)&#10;  is##&#10;#else&#10;  get##&#10;#end&#10;${name}() {&#10;  return Optional.ofNullable($field.name);&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>
