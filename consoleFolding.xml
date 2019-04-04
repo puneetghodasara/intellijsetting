@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="2019-03-08 10:52:00.475  INFO 24756 --- [   scheduling-1] m.p.w.adapter.SAPMqttGatewayServiceImpl  : (send) jsonPayload = [{&quot;measures&quot;:{&quot;temperature&quot;:&quot;5.85&quot;},&quot;sensorAlternateId&quot;:&quot;tph1012&quot;,&quot;capabilityAlternateId&quot;:&quot;293002927&quot;},{&quot;measures&quot;:{&quot;pressure&quot;:&quot;1006.0&quot;},&quot;sensorAlternateId&quot;:&quot;tph1012&quot;,&quot;capabilityAlternateId&quot;:&quot;1077532090&quot;},{&quot;measures&quot;:{&quot;humidity&quot;:&quot;81.0&quot;},&quot;sensorAlternateId&quot;:&quot;tph1012&quot;,&quot;capabilityAlternateId&quot;:&quot;1080001564&quot;},{&quot;measures&quot;:{&quot;speed&quot;:&quot;5.1&quot;},&quot;sensorAlternateId&quot;:&quot;w012&quot;,&quot;capabilityAlternateId&quot;:&quot;1458200773&quot;}]" />
+      </list>
+    </option>
+  </component>
+</application>
