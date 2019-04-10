@@ -130,6 +130,10 @@
           <option name="url" value="git://git.ti.com/bluetooth-low-energy-android-project-zero-sample-code/bluetooth-low-energy-android-project-zero-sample-code.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/intel-iot-devkit/tinyb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\i324801\git" />
