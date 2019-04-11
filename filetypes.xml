@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="type" type="JavaScript" />
       <mapping pattern="luxometer" type="JavaScript" />
-      <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping pattern=".boto" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="dummy" type="PLAIN_TEXT" />
