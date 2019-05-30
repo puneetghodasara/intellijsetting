@@ -5,6 +5,7 @@
       <mapping pattern="type" type="JavaScript" />
       <mapping pattern="luxometer" type="JavaScript" />
       <mapping pattern="IoTAPIService" type="JavaScript" />
+      <mapping pattern=".cfignore" type="PLAIN_TEXT" />
       <mapping pattern=".boto" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
