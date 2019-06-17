@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="type" type="JavaScript" />
+      <mapping pattern="customerPreferences" type="JavaScript" />
       <mapping pattern="luxometer" type="JavaScript" />
+      <mapping pattern="customerPreferenceTest" type="JavaScript" />
       <mapping pattern="IoTAPIService" type="JavaScript" />
       <mapping pattern=".cfignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
