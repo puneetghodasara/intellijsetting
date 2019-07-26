@@ -3,6 +3,9 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="GENERATE_FINAL_LOCALS" value="true" />
     <option name="GENERATE_FINAL_PARAMETERS" value="true" />
@@ -59,6 +62,9 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
@@ -151,7 +157,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
