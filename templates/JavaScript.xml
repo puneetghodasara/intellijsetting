@@ -1,0 +1,47 @@
+<templateSet group="JavaScript">
+  <template name="logd" value="logger.debug(`$VAR_NAME$ ${$VAR_NAME$$}`);" description="Prints a DEBUG log" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR_NAME" expression="jsSuggestVariableName()" defaultValue="default" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logdv" value="logger.debug(` = &quot; + $EXPR$`);" description="Prints a value to log" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="loge" value="$EXPR$.error(&quot;($METHOD_NAME$) $END$&quot;);" description="Prints an EROR log" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Logger&quot;)" defaultValue="log" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="default" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logev" value="$LOG$.error(&quot;$EXPR_COPY$ = &quot; + $EXPR$);" description="Prints a value to log" toReformat="true" toShortenFQNames="true">
+    <variable name="LOG" expression="variableOfType(Type)" defaultValue="logger" alwaysStopAt="true" />
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logi" value="$EXPR$.info(&quot;($METHOD_NAME$) $END$&quot;);" description="Prints an INFO log" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Logger&quot;)" defaultValue="log" alwaysStopAt="false" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="default" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logiv" value="$LOG$.info(&quot;($MTHOD_NAME$) $EXPR_COPY$ = &quot; + $EXPR$);" description="Prints a value to log" toReformat="true" toShortenFQNames="true">
+    <variable name="LOG" expression="variableOfType(&quot;Logger&quot;)" defaultValue="logger" alwaysStopAt="true" />
+    <variable name="MTHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
