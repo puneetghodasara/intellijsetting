@@ -1,6 +1,7 @@
 <templateSet group="JavaScript">
-  <template name="logd" value="logger.debug(`$VAR_NAME$ ${$VAR_NAME$$}`);" description="Prints a DEBUG log" toReformat="true" toShortenFQNames="true">
+  <template name="logd" value="logger.debug(`$VAR_NAME$ ${$VAR_NAME$$EEND$}`);" description="Prints a DEBUG log" toReformat="true" toShortenFQNames="true">
     <variable name="VAR_NAME" expression="jsSuggestVariableName()" defaultValue="default" alwaysStopAt="false" />
+    <variable name="EEND" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
