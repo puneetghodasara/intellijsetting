@@ -7,11 +7,12 @@
       <mapping pattern="mlService" type="JavaScript" />
       <mapping pattern="luxometer" type="JavaScript" />
       <mapping pattern="customerPreferenceTest" type="JavaScript" />
+      <mapping pattern="indexFilesInElasticsearch" type="JavaScript" />
       <mapping pattern="helper" type="JavaScript" />
       <mapping pattern="IoTAPIService" type="JavaScript" />
       <mapping pattern=".env.template" type="PLAIN_TEXT" />
-      <mapping pattern="Staticfile" type="PLAIN_TEXT" />
       <mapping pattern=".boto" type="PLAIN_TEXT" />
+      <mapping pattern="Staticfile" type="PLAIN_TEXT" />
       <mapping pattern=".cfignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-dev" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
