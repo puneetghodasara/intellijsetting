@@ -2,7 +2,4 @@
   <component name="DependencyUISettings">
     <option name="UI_SHOW_FILES" value="false" />
   </component>
-  <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="784" />
-  </component>
 </application>
